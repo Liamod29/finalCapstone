@@ -1,6 +1,4 @@
-# finalCapstone
-
-##Finance Calculators project
+# Finance Calculators project
 
 The aim of this programme is to take user input and calculate monthly payments on a mortgage, or to calculate earnings on an investment.
 The investment earnings are based on whethere the interest is simple or compound.
